@@ -27,20 +27,8 @@ A modern Android application that showcases Boruto anime characters and content.
 
 **Backend**:
 - Ktor (Kotlin server framework)
-- Exposed (Kotlin SQL framework)
 - Ktor serialization
 - REST API with JSON support
-
-## 📦 Structure  
-backend/
-├── routes/ # Route definitions for APIs
-├── models/ # Data models for serialization
-├── controllers/ # Request handlers and business logic
-├── database/ # DB configuration, DAO or repository
-├── plugins/ # CORS, Serialization, Logging plugins
-├── Application.kt # Main entry point of the Ktor server
-├── resources/ # application.conf and static files
-└── build.gradle.kts # Gradle build script
 
 ---
 ## 🚀 Running the Server Locally
