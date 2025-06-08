@@ -30,6 +30,12 @@ A modern Android application that showcases Boruto anime characters and content.
 - Ktor serialization
 - REST API with JSON support
 
+## 📡 Backend API
+
+This Android project uses a custom RESTful API built with Ktor.
+
+🔗 [BorutoServer (Ktor backend)](https://github.com/Heroid-Dev/BorutoServer)
+
 ---
 ## 🚀 Running the Server Locally
 
