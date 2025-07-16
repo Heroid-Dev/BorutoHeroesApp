@@ -2,6 +2,7 @@
 
 A modern Android application that showcases Boruto anime characters and content. Built using **Kotlin** and **Jetpack Compose** for the frontend and **Ktor** for the backend API. The app provides a clean, fast, and responsive user experience with a fully reactive UI and efficient API communication.
 
+![BoruroApp](https://drive.google.com/file/d/1FCIUBjcfGvT-W_AMFPXQKm6dT_hzVHh1/view?usp=drive_link)
 
 ## ✨ Features
 
