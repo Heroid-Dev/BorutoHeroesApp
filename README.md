@@ -1,7 +1,9 @@
 # Boruto Heroes App
 
 A modern Android application that showcases Boruto anime characters and content. Built using **Kotlin** and **Jetpack Compose** for the frontend and **Ktor** for the backend API. The app provides a clean, fast, and responsive user experience with a fully reactive UI and efficient API communication.
-![Boruto app] (https://camo.githubusercontent.com/175026fd55b624c62a2fc57490e5939775976d0668322e23c6ae84bea933c5ca/68747470733a2f2f692e706f7374696d672e63632f347958347658435a2f426f7275746f2e706e67)
+
+![Boruto app] (/home/mestershadow/Downloads/borutoappimage.png)
+
 ## ✨ Features
 
 - Display a list of Boruto anime characters with images and details
